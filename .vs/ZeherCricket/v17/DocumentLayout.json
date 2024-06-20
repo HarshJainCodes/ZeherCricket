@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebDev\\ZeherCricket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\controllers\\cricketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\controllers\\cricketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\matchinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\matchinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\config\\matchinfotableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\config\\matchinfotableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\usermatchselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\usermatchselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\config\\usermatchselectiontableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\config\\usermatchselectiontableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\zehercricketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\zehercricketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\config\\userstableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\config\\userstableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|d:\\webdev\\zehercricket\\zehercricket\\data\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2610CDDA-61AB-445B-A3FB-E79271E624EE}|ZeherCricket\\ZeherCricket.csproj|solutionrelative:zehercricket\\data\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserMatchSelectionTableConfig.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\Config\\UserMatchSelectionTableConfig.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\Config\\UserMatchSelectionTableConfig.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\Config\\UserMatchSelectionTableConfig.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\Config\\UserMatchSelectionTableConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:39:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchInfoTableConfig.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\Config\\MatchInfoTableConfig.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\Config\\MatchInfoTableConfig.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\Config\\MatchInfoTableConfig.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\Config\\MatchInfoTableConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:49:14.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchInfo.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\MatchInfo.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\MatchInfo.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\MatchInfo.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\MatchInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:47:07.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CricketController.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Controllers\\CricketController.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Controllers\\CricketController.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Controllers\\CricketController.cs",
+              "RelativeToolTip": "ZeherCricket\\Controllers\\CricketController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:31:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Program.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Program.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Program.cs",
+              "RelativeToolTip": "ZeherCricket\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:04:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\appsettings.json",
+              "RelativeDocumentMoniker": "ZeherCricket\\appsettings.json",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\appsettings.json",
+              "RelativeToolTip": "ZeherCricket\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T21:44:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMatchSelection.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\UserMatchSelection.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\UserMatchSelection.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\UserMatchSelection.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\UserMatchSelection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:37:21.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersTableConfig.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\Config\\UsersTableConfig.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\Config\\UsersTableConfig.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\Config\\UsersTableConfig.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\Config\\UsersTableConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:38:45.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\UserInfo.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\UserInfo.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\UserInfo.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:36:23.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZeherCricketDBContext.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\ZeherCricketDBContext.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\ZeherCricketDBContext.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\ZeherCricketDBContext.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\ZeherCricketDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:33:10.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Data\\LoginInfo.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Data\\LoginInfo.cs",
+              "RelativeToolTip": "ZeherCricket\\Data\\LoginInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:53:01.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ZeherCricket\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\WebDev\\ZeherCricket\\ZeherCricket\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ZeherCricket\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:50:07.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ZeherCricket_HostAddress = http://localhost:5082
+
+GET {{ZeherCricket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
